@@ -1,0 +1,3 @@
+NUM_LABELD=100: lr=0.001, lr_bert=5e-05, thr=0.9, lbd=0.1, mu=4: best_MAF1=0.8136211304068789, best_acc=0.8115, best_f1=0.8136211304068789
+NUM_LABELD=50: lr=0.001, lr_bert=5e-05, thr=0.9, lbd=0.1, mu=4: best_MAF1=0.7514796643517572, best_acc=0.751, best_f1=0.7514796643517572
+NUM_LABELD=10: lr=0.001, lr_bert=5e-05, thr=0.9, lbd=0.1, mu=4: best_MAF1=0.680630686553213, best_acc=0.684, best_f1=0.680630686553213
